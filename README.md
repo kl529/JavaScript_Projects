@@ -13,9 +13,9 @@ Simple Projects If you want to get more informations, visit [here.](https://kari
 
 SR No   | Project 
 --- | --- 
-1 | [REACT_NATIVE_WeatherApp](https://github.com/kl529/Python_Projects/tree/main/01.%20Tetris) 
-2 | [REACT_MovieWeb](https://github.com/kl529/Python_Projects/tree/main/02.%20Matgo%20Game%20(Korean%20Traditonal%20Card%20Game))
-3 | [REACT_Hooks](https://github.com/kl529/Python_Projects/tree/main/03.%20Simple%20Algorithms) 
+1 | [REACT_NATIVE_WeatherApp](https://github.com/kl529/JavaScript_Projects/tree/main/01.%20REACT_NATIVE_WeatherApp) 
+2 | [REACT_MovieWeb](https://github.com/kl529/JavaScript_Projects/tree/main/02.%20REACT_MovieWeb)
+3 | [REACT_Hooks](https://github.com/kl529/JavaScript_Projects/tree/main/03.%20REACT_Hooks) 
 4 | Not Yet❗
 5 | Not Yet❗
 6 | Not Yet❗
