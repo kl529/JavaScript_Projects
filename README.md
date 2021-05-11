@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-# JavaScript-Projects (Not Completed)
+# JavaScript-Projects
 
 Karice's Mini JavaScript Projects (2016 ~ ) 
 
