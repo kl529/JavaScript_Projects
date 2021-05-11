@@ -7,7 +7,12 @@
 React와 EXPO를 이용한 간단하게 날씨와 온도를 알려주는 앱입니다.
 쉽게 expo를 이용해 설치하지 않고 실행 할 수 있습니다.
 
+## 사용방법
 
+# 1. yarn start 로 서버를 실행시켜줍니다.
+# 2. localhost:19002 로 들어가서 Expo로 생성된 링크로 앱을 다운합니다.
+![Expo](https://github.com/kl529/React_weatherapp/blob/master/assets/expo.png)
+# 3. Enjoy
 
 
 ## 각각의 날씨에 따른 화면변화입니다
